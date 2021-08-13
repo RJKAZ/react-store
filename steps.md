@@ -1,0 +1,1 @@
+Gonna try and document every step I take to build this, in hopes I learn faster.
